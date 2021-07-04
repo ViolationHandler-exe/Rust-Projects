@@ -3,7 +3,7 @@ Hello Rust players, Random GitHub users, and More!
 
 # What is this?
 
-This GitHub Repo is an easy way for Players to submit Issues, Questions, And Suggestions 
+This GitHub Repo is an easy way for Players to submit Issues, Questions, And Suggestions for the FinchoZombie's Game Servers which are hosted on Rust, Garry's Mod, Minecraft, And more.
 
 # Do I use this to report cheaters?
 
